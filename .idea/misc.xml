@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/imama/AndroidStudioProjects/GSMArenaImam/app/src/main/res/layout/activity_about_page.xml" value="0.2608695652173913" />
+        <entry key="..\:/Users/imama/AndroidStudioProjects/GSMArenaImam/app/src/main/res/layout/activity_detail_page.xml" value="0.2608695652173913" />
+        <entry key="..\:/Users/imama/AndroidStudioProjects/GSMArenaImam/app/src/main/res/layout/activity_main.xml" value="0.2563405797101449" />
+        <entry key="..\:/Users/imama/AndroidStudioProjects/GSMArenaImam/app/src/main/res/layout/activity_splash_screen.xml" value="0.3007246376811594" />
+        <entry key="..\:/Users/imama/AndroidStudioProjects/GSMArenaImam/app/src/main/res/layout/item_row_gadget.xml" value="0.3007246376811594" />
+        <entry key="..\:/Users/imama/AndroidStudioProjects/GSMArenaImam/app/src/main/res/layout/item_row_hero.xml" value="0.11005434782608696" />
+        <entry key="..\:/Users/imama/AndroidStudioProjects/GSMArenaImam/app/src/main/res/menu/menu_main.xml" value="0.15213675213675212" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

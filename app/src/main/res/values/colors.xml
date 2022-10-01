@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="red_gsm_primary">#c83737</color>
+    <color name="red_gsm_light">#ff6a61</color>
+    <color name="red_gsm_dark">#900011</color>
+    <color name="gray_gsm_primary">#666666</color>
+    <color name="gray_gsm_light">#949494</color>
+    <color name="gray_gsm_dark">#3c3c3c</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+
+    <color name="colorPrimary">#2C3C54</color>
+    <color name="colorPrimaryDark">#161F2C</color>
+    <color name="colorAccent">#5E83BC</color>
+    <color name="darkerGray">#a9a9a9</color>
+</resources>

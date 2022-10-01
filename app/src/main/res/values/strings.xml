@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">GSMArena</string>
+    <string name="gadgets_name">Nama Smartphone</string>
+    <string name="detail">Detail</string>
+    <string name="share">Share</string>
+    <string name="number_photo">1 Foto</string>
+    <string name="spesifikasi">Spesifikasi :</string>
+    <string name="menu_about">About</string>
+    <string name="nama">Imam Agus Faisal</string>
+    <string name="email">imamagusfaisal120@gmail.com</string>
+    <string name="content_text">lipsum aaaaaa aaa aaaaaaa aaaa</string>
+    <string name="processor">SoC</string>
+    <string name="dxomark">DxOMark</string>
+    <string name="camera">Kamera</string>
+    <string name="antutu">AnTuTu</string>
+    <string name="profile">Profile</string>
+    <string name="deskripsi">Deskripsi</string>
+    <string name="github">GITHUB</string>
+</resources>
